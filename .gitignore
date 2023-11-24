@@ -16,3 +16,4 @@ keys/*
 !/**/.gitkeep
 
 google-services.json
+.betterer.results

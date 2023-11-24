@@ -35,7 +35,7 @@ const MIN_DESCRIPTION_LENGTH = 5;
 
 interface ReportBugForm {
   email: string;
-  description: string;
+  description: number;
 }
 
 const ReportBug = ({ navigation }: Props): JSX.Element => {
